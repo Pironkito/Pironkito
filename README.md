@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pironkito
-- 👀 I’m interested in gym
-- 🌱 I’m currently learning basics (html,css,js and py)
-- 📫 How to reach me @pironkitososmol_ on ig
-
+- 👀 I’m interested in gym and doing games
+- 🌱 I’m currently learning LUA (trying roblox studio) and soon will start with GDScript
+- 📫 How to reach me: glebpironko@gmail.com
