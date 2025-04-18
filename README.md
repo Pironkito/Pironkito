@@ -2,3 +2,4 @@
 - 👀 I’m interested in gym and doing games
 - 🌱 I’m currently learning LUA (trying roblox studio) and soon will start with GDScript
 - 📫 How to reach me: glebpironko@gmail.com
+- And I like a lot the little boys with big boobs
