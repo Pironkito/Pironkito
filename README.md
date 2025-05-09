@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Pironkito
-- 👀 I’m interested in gym and doing games
+- 👀 I’m interested in gym and web design
 - 🌱 Desarollador profesional💯
 - 📫 How to reach me: glebpironko@gmail.com
