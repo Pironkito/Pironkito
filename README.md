@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [formaweb.es](formaweb.es)
 
 - ⚡ Fun fact **I learnt a lot from YouTube and using AI**
 
